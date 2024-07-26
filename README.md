@@ -11,11 +11,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_dictionary/main/static/menu.png)
+![image]()
 
 После отправки запроса:
 
-![image](https://raw.githubusercontent.com/German-D/tg_dictionary/main/static/answer.png)
+![image]()
 
 ## 💻 Технологии
 
@@ -54,5 +54,5 @@ python3 dict_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Сергей Авдеев
 
